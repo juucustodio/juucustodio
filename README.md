@@ -10,18 +10,18 @@ Here something about me:
 
 
 
- 
- ### Honors & Awards
-
-<image width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png"/> <image width="250px" src="https://julianocustodiosite.files.wordpress.com/2017/06/planet.png"/>
+ ### Blog
+  <a href="http://julianocustodio.com" target="_blank"><image width="180px" src="https://julianocustodiosite.files.wordpress.com/2017/02/cropped-logojuliano.png?w=300&h=300&crop=1"/></a>
+ <br/><a href="http://julianocustodio.com">www.julianocustodio.com</a>
 
  ### Certifications
 
 <image width="170px" src="https://julianocustodiosite.files.wordpress.com/2020/07/azure-fundamentals-600x600-1.png"/> <image width="170px" src="https://julianocustodiosite.files.wordpress.com/2020/07/xamarin.png"/>
 
-### Blog
-  <a href="http://julianocustodio.com" target="_blank"><image width="180px" src="https://julianocustodiosite.files.wordpress.com/2017/02/cropped-logojuliano.png?w=300&h=300&crop=1"/></a>
- <br/><a href="http://julianocustodio.com">www.julianocustodio.com</a>
+ 
+  ### Honors & Awards
+<image width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png"/> <image width="250px" src="https://julianocustodiosite.files.wordpress.com/2017/06/planet.png"/>
+
 
 #### Follow me on social networks:
 [![MVP Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003228)](https://mvp.microsoft.com/en-us/PublicProfile/5003228)
