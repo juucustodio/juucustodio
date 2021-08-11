@@ -15,7 +15,7 @@ Here something about me:
   <a href="http://youtube.com/sobrinhodeti" target="_blank"><image width="180px" src="https://julianocustodiosite.files.wordpress.com/2021/05/logo01-8.png"/></a>
  <br/>
 
- ### Blog
+ ### Blog (Disabled)
   <a href="http://julianocustodio.com" target="_blank"><image width="180px" src="https://julianocustodiosite.files.wordpress.com/2017/02/cropped-logojuliano.png?w=200&h=200&crop=1"/></a>
  <br/><a href="http://julianocustodio.com">www.julianocustodio.com</a>
 
