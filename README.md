@@ -6,7 +6,7 @@ Here something about me:
 - 🏆 I'm currently a Microsoft MVP on Developer Technologies category
 - 💻 I work with .NET, Cloud and DevOps.
 - 🚀 I’m producing content about Xamarin, .NET, DevOps, Azure and other development and cloud stuff.     
-- 📌 Living at São Paulo - Brazil
+- 📌 Living at Brazil
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juucustodio&theme=white&count_private=true&show_icons=true&title_color=3f9a98&icon_color=ED7439&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juucustodio&theme=white&layout=compact&show_icons=true&title_color=3f9a98&&icon_color=ED7439)](https://github.com/anuraghazra/github-readme-stats)
