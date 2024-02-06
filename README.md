@@ -25,7 +25,7 @@ Here something about me:
 
  
   ### Honors & Awards
-<image width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png"/> <image width="250px" src="https://julianocustodiosite.files.wordpress.com/2017/06/planet.png"/>
+<image width="90px" src="https://julianocustodiosite.files.wordpress.com/2018/09/mvp_logo_preferred_cyan300_rgb_300ppi.png"/> <image width="250px" src="https://julianocustodiosite.files.wordpress.com/2017/06/planet.png"/>
 
 
 #### Follow me on social networks:
