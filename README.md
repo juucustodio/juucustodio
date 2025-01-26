@@ -7,8 +7,8 @@ Here something about me:
 - 💻 I work with Azure Cloud, DevOps, FinOps.
 - 🌱 GreenOps Enthusiast
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juucustodio&theme=white&count_private=true&show_icons=true&title_color=3f9a98&icon_color=ED7439&line_height=20)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juucustodio&theme=white&layout=compact&show_icons=true&title_color=3f9a98&&icon_color=ED7439)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juucustodio&theme=white&count_private=true&show_icons=true&title_color=03AB12&icon_color=03AB12&line_height=20)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juucustodio&theme=white&layout=compact&show_icons=true&title_color=03AB12&&icon_color=03AB12)](https://github.com/anuraghazra/github-readme-stats) -->
  
   ### Honors & Awards
 <image width="200px" src="https://github.com/juucustodio/juucustodio/blob/master/mvp_logo.png"/> <image width="150px" src="https://github.com/juucustodio/juucustodio/blob/master/aws_cb_logo.jpg"/>
