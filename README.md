@@ -2,30 +2,16 @@
 
 Here something about me:
 
-- 🔭 I’m currently Solutions Architect at GFT
+- 🔭 I’m currently DevOps Leader for Cloud Solutions at GFT
 - 🏆 I'm currently a Microsoft MVP on Developer Technologies category
-- 💻 I work with .NET, Cloud and DevOps.
-- 🚀 I’m producing content about Xamarin, .NET, DevOps, Azure and other development and cloud stuff.     
-- 📌 Living at São Paulo - Brazil
+- 💻 I work with Azure Cloud, DevOps, FinOps.
+- 🌱 GreenOps Enthusiast
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juucustodio&theme=white&count_private=true&show_icons=true&title_color=3f9a98&icon_color=ED7439&line_height=20)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juucustodio&theme=white&layout=compact&show_icons=true&title_color=3f9a98&&icon_color=ED7439)](https://github.com/anuraghazra/github-readme-stats) -->
-
-### YouTube Channel
-  <a href="http://youtube.com/sobrinhodeti" target="_blank"><image width="180px" src="https://julianocustodiosite.files.wordpress.com/2021/05/logo01-8.png"/></a>
- <br/>
-
- ### Blog (Disabled)
-  <a href="http://julianocustodio.com" target="_blank"><image width="180px" src="https://julianocustodiosite.files.wordpress.com/2017/02/cropped-logojuliano.png?w=200&h=200&crop=1"/></a>
- <br/><a href="http://julianocustodio.com">www.julianocustodio.com</a>
-
- ### Certifications
-
-<image width="170px" src="https://julianocustodiosite.files.wordpress.com/2020/07/azure-fundamentals-600x600-1.png"/> <image width="170px" src="https://julianocustodiosite.files.wordpress.com/2020/07/xamarin.png"/>
-
  
   ### Honors & Awards
-<image width="90px" src="https://julianocustodiosite.files.wordpress.com/2018/09/mvp_logo_preferred_cyan300_rgb_300ppi.png"/> <image width="250px" src="https://julianocustodiosite.files.wordpress.com/2017/06/planet.png"/>
+<image width="200px" src="https://github.com/juucustodio/juucustodio/blob/master/mvp_logo.png"/> <image width="150px" src="https://github.com/juucustodio/juucustodio/blob/master/aws_cb_logo.jpg"/>
 
 
 #### Follow me on social networks:
@@ -33,5 +19,5 @@ Here something about me:
 [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juucustodio)](https://github.com/juucustodio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianocustodio/)](https://www.linkedin.com/in/julianocustodio/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&labelColor=blue&logo=instagram&logoColor=white&link=https://www.instagram.com/JuuCustodio/)](https://www.instagram.com/juucustodio/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/JuuCustodio/)](https://www.facebook.com/JuuCustodio/)
+[![YouTube Badge](https://img.shields.io/badge/-Youtube-blue?style=flat-square&labelColor=blue&logo=youtube&logoColor=white&link=https://youtube.com/sobrinhodeti)](https://youtube.com/sobrinhodeti)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/JuuCustodio)](https://twitter.com/JuuCustodio)
